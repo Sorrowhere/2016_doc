@@ -1,0 +1,7 @@
+
+.idea/*.xml
+.idea/
+node_modules/
+*.xml
+public/js/bundle.js
+style/sourcemaps/
